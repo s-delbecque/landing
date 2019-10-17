@@ -1,0 +1,19 @@
+.banner {
+  background-image: linear-gradient(rgba( 255, 120, 174,0.5), rgba( 255, 120, 174,0.7)), url(../../images/Background.jpg);
+  padding: 100px 0;
+  background-size: cover;
+  color: #ffeef5;
+  text-align: center;
+  display: flex;
+}
+
+.banner-text {
+  padding: 30px;
+  text-shadow: 1px 3px 3px rgba(255, 120, 174,0.9);
+}
+
+.banner p {
+  font-size: 21px;
+  margin-bottom: 20px;
+}
+

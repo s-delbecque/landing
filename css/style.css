@@ -1,0 +1,48 @@
+/* Fonts */
+/*@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700|Poppins:700');*/
+@import url('https://fonts.googleapis.com/css?family=Karla:400,400i|Spectral:300,500,700&display=swap');
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+
+
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/footer.css");
+@import url("components/card.css");
+@import url("components/footer.css");
+
+/* Utilities */
+body {
+  margin: 0;
+  font-family: 'Karla', sans-serif;
+  color: rgb(100,100,100);
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Spectral', serif;
+}
+
+h2 {
+  font-size: 40px;
+  color: #ff78ae;
+}
+
+h3 {
+  color: #ff78ae;
+}
+
+a {
+  text-decoration: none;
+  color: #ffeef5;
+}
+
+.container {
+  width: 900px;
+  margin: O auto;
+}
+
+.text-center {
+  text-align: center;
+}
+/* Custom design below! */
+

@@ -1,0 +1,22 @@
+.footer {
+  background-color: rgba( 255, 120, 174);
+  padding: 60px;
+  text-align: center;
+}
+
+.links {
+  color: #ffeef5;
+  font-size: 42px;
+  display: inline-block;
+  padding: 10px;
+}
+
+.links a:hover {
+  color: #ffa0d2;
+}
+
+
+.links p {
+    font-size: 21px;
+}
+
